@@ -1,0 +1,20 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TestBenchTPU_behav xil_defaultlib.TestBenchTPU xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 16 for port 'number' [D:/Xilinx/ControlPathTPU/ControlPathTPU.srcs/sources_1/new/SimpleSystolicArray.v:82]
+WARNING: [VRFC 10-8864] concatenation with an unsized literal will be treated as 32 bits [D:/Xilinx/ControlPathTPU/ControlPathTPU.srcs/sources_1/new/SimpleSystolicArray.v:91]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 16 for port 'number' [D:/Xilinx/ControlPathTPU/ControlPathTPU.srcs/sources_1/new/SimpleSystolicArray.v:83]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 16 for port 'number' [D:/Xilinx/ControlPathTPU/ControlPathTPU.srcs/sources_1/new/SimpleSystolicArray.v:84]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.findlargestOne
+Compiling module xil_defaultlib.ieeeHalfPrecisonMultiplier
+Compiling module xil_defaultlib.TestBenchTPU
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TestBenchTPU_behav

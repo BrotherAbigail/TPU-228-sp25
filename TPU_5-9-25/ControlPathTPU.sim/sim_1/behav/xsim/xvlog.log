@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/ControlPathTPU/ControlPathTPU.srcs/sources_1/new/SimpleSystolicArray.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module findlargestOne
+INFO: [VRFC 10-311] analyzing module ieeeHalfPrecisonMultiplier
+WARNING: [VRFC 10-8864] concatenation with an unsized literal will be treated as 32 bits [D:/Xilinx/ControlPathTPU/ControlPathTPU.srcs/sources_1/new/SimpleSystolicArray.v:91]
+INFO: [VRFC 10-311] analyzing module SimpleSystolicArray
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/ControlPathTPU/ControlPathTPU.srcs/sim_1/new/TestBenchTPU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TestBenchTPU
