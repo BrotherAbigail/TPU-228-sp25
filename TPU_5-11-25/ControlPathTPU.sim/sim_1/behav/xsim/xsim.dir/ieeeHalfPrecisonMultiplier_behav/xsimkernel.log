@@ -1,0 +1,7 @@
+Running: xsim.dir/ieeeHalfPrecisonMultiplier_behav/xsimk.exe -simmode gui -wdb ieeeHalfPrecisonMultiplier_behav.wdb -simrunnum 0 -socket 53625
+Design successfully loaded
+Design Loading Memory Usage: 28584 KB (Peak: 28584 KB)
+Design Loading CPU Usage: 702 ms
+Simulation completed
+Simulation Memory Usage: 29772 KB (Peak: 29772 KB)
+Simulation CPU Usage: 764 ms
