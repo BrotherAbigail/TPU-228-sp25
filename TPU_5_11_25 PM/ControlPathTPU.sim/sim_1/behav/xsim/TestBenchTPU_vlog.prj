@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ControlPathTPU.srcs/sources_1/new/SimpleSystolicArray.v" \
+"../../../../ControlPathTPU.srcs/sim_1/new/TestBenchTPU.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
